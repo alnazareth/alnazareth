@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alnazareth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Wordpress
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 You can check My current work...  https://author.gamingori.com/
 
 <!---
